@@ -2,6 +2,9 @@
 
 A modern, interactive Tic-Tac-Toe game built with Next.js, React, and TypeScript. Features a beautiful UI with smooth animations, game statistics, and move history functionality.
 
+# Deployment Link:
+https://tic-tac-toe-five-eta-96.vercel.app/
+
 ## ✨ Features
 
 - **🎯 Classic Gameplay**: Traditional 3x3 tic-tac-toe with intuitive controls
